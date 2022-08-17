@@ -1,3 +1,3 @@
 # react projects
 
-## hello there !
+## my mini projects 
